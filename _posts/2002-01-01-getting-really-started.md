@@ -1,6 +1,6 @@
 ---
 category: about
-heading: "Getting Really Started"
+heading: Getting Really Started
 ---
 
 Starting with {{ site.PROJECT_NAME }}
