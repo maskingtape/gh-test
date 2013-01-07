@@ -1,7 +1,0 @@
----
-category: overview
-heading: Dan's Overview
----
-
-&#8291;<span class="project-name">{{ site.PROJECT_NAME }}</span> uses github's in-built Github Pages facility to build a project website.
-
